@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MJ-GITHUB&fontSize=80)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+
 ### 🗒️ Profile
 ___ 
 - 2021.03 단국대학교 소프트웨어학과 입학
