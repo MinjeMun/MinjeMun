@@ -8,7 +8,7 @@ ___
 - 2023.01 신한투자증권 프로디지털아카데미 1기
 - 
 
-### 💻 Skills 
+### 💻 Stacks 
 ---
 <div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square?style=flat-square&logo=Python&logoColor=white"/></a>
