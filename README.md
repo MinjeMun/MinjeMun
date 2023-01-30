@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MJ-GITHUB&fontSize=80)
 
-<img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?  username=MinjeMun&show_icons=true&hide_border=true&title_color=327ED6&layout=compact">
-<img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinjeMun&show_icons=true&title_color=080808&icon_color=F42929&theme=default" height="165">
+<div align="center">
+  <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jiminpark23&show_icons=true&hide_border=true&title_color=327ED6&layout=compact">
+  <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jiminpark23&show_icons=true&title_color=080808&icon_color=F42929&theme=default" height="165">
+</div>
 
 ### 🗒️ Profile
 ___ 
@@ -12,9 +14,6 @@ ___
 ### 💻 Stacks 
 ---
 <div>
-
-  
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
