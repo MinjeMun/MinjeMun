@@ -1,8 +1,3 @@
-<div>
-  <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MinjeMun&show_icons=true&hide_border=true&title_color=327ED6&layout=compact">
-  <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinjeMun&show_icons=true&title_color=080808&icon_color=F42929&theme=default" height="165">
-</div>
-
 ### 🗒️ Profile
 ___ 
 - 단국대학교 소프트웨어학과 입학 (2021.03 ~ 재학 중)
@@ -32,3 +27,8 @@ ___
 ---
 - 컴퓨터활용능력 2급
 - SQLD (예정)
+
+<div>
+  <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MinjeMun&show_icons=true&hide_border=true&title_color=327ED6&layout=compact">
+  <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinjeMun&show_icons=true&title_color=080808&icon_color=F42929&theme=default" height="165">
+</div>
