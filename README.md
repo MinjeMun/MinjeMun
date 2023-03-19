@@ -11,7 +11,7 @@ ___
 - 신한투자증권 프로 디지털 아카데미 1기 수료 (2023.01.03 ~ 02.24)
 - 멋쟁이사자처럼 단국대학교 11기 BACK-END 파트 (2023.03.29 ~ )
 
-### 💻 Stacks 
+### 💻 Stack 
 ---
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
