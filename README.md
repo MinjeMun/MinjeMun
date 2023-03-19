@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MJ-GITHUB&fontSize=80)
-
 <div>
   <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MinjeMun&show_icons=true&hide_border=true&title_color=327ED6&layout=compact">
   <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MinjeMun&show_icons=true&title_color=080808&icon_color=F42929&theme=default" height="165">
